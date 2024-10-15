@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/xxmat/Desktop/CS5410/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Maze/Content/8Bit.spritefont</SourceFile>
+  <SourceTime>2024-02-14T09:07:07.5746362-07:00</SourceTime>
+  <DestFile>C:/Users/xxmat/Desktop/CS5410/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Maze/Content/bin/DesktopGL/Content/8Bit.xnb</DestFile>
+  <DestTime>2024-02-16T14:32:02.6898247-07:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2022-07-26T05:44:56-06:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2022-07-26T05:44:56-06:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

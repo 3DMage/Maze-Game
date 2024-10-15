@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/xxmat/Desktop/CS5410/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Maze/Content/8Bit.spritefont</File>
+    <File>C:/Users/xxmat/Desktop/CS5410/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Maze/Content/Background.png</File>
+    <File>C:/Users/xxmat/Desktop/CS5410/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Maze/Content/Breadcrumb.png</File>
+    <File>C:/Users/xxmat/Desktop/CS5410/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Maze/Content/CorrectPath.png</File>
+    <File>C:/Users/xxmat/Desktop/CS5410/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Maze/Content/Exit.png</File>
+    <File>C:/Users/xxmat/Desktop/CS5410/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Maze/Content/InvalidWall.png</File>
+    <File>C:/Users/xxmat/Desktop/CS5410/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Maze/Content/MainCharacter.png</File>
+    <File>C:/Users/xxmat/Desktop/CS5410/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Maze/Content/RectangleColor.png</File>
+    <File>C:/Users/xxmat/Desktop/CS5410/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Maze/Content/This-is-Life.ogg</File>
+    <File>C:/Users/xxmat/Desktop/CS5410/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Maze/Content/Wall1.png</File>
+    <File>C:/Users/xxmat/Desktop/CS5410/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Maze/Content/Wall10.png</File>
+    <File>C:/Users/xxmat/Desktop/CS5410/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Maze/Content/Wall11.png</File>
+    <File>C:/Users/xxmat/Desktop/CS5410/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Maze/Content/Wall12.png</File>
+    <File>C:/Users/xxmat/Desktop/CS5410/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Maze/Content/Wall13.png</File>
+    <File>C:/Users/xxmat/Desktop/CS5410/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Maze/Content/Wall14.png</File>
+    <File>C:/Users/xxmat/Desktop/CS5410/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Maze/Content/Wall15.png</File>
+    <File>C:/Users/xxmat/Desktop/CS5410/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Maze/Content/Wall2.png</File>
+    <File>C:/Users/xxmat/Desktop/CS5410/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Maze/Content/Wall3.png</File>
+    <File>C:/Users/xxmat/Desktop/CS5410/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Maze/Content/Wall4.png</File>
+    <File>C:/Users/xxmat/Desktop/CS5410/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Maze/Content/Wall5.png</File>
+    <File>C:/Users/xxmat/Desktop/CS5410/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Maze/Content/Wall6.png</File>
+    <File>C:/Users/xxmat/Desktop/CS5410/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Maze/Content/Wall7.png</File>
+    <File>C:/Users/xxmat/Desktop/CS5410/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Maze/Content/Wall8.png</File>
+    <File>C:/Users/xxmat/Desktop/CS5410/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Assignment 2 - C Sharp Maze/Maze/Content/Wall9.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
